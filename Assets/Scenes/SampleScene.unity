@@ -122,7 +122,11 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &14317001
+=======
+--- !u!1 &538269694
+>>>>>>> #123
 =======
 --- !u!1 &538269694
 >>>>>>> #123
@@ -138,6 +142,7 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 14317005}
   - component: {fileID: 14317004}
   - component: {fileID: 14317003}
@@ -147,6 +152,8 @@ GameObject:
 =======
 =======
 >>>>>>> #123
+=======
+>>>>>>> #123
   - component: {fileID: 538269698}
   - component: {fileID: 538269697}
   - component: {fileID: 538269696}
@@ -154,6 +161,9 @@ GameObject:
   m_Layer: 0
   m_Name: Capsule
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> #123
+=======
 >>>>>>> #123
 =======
 >>>>>>> #123
@@ -162,6 +172,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!65 &14317002
@@ -174,10 +185,15 @@ CapsuleCollider:
 --- !u!136 &538269695
 CapsuleCollider:
 >>>>>>> #123
+=======
+--- !u!136 &538269695
+CapsuleCollider:
+>>>>>>> #123
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 14317001}
@@ -191,6 +207,8 @@ CapsuleCollider:
 =======
 =======
 >>>>>>> #123
+=======
+>>>>>>> #123
   m_GameObject: {fileID: 538269694}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -201,6 +219,9 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &538269696
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> #123
+=======
 >>>>>>> #123
 =======
 >>>>>>> #123
@@ -211,7 +232,11 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 14317001}
+=======
+  m_GameObject: {fileID: 538269694}
+>>>>>>> #123
 =======
   m_GameObject: {fileID: 538269694}
 >>>>>>> #123
@@ -251,7 +276,11 @@ MeshRenderer:
   m_SortingOrder: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &14317004
+=======
+--- !u!33 &538269697
+>>>>>>> #123
 =======
 --- !u!33 &538269697
 >>>>>>> #123
@@ -265,9 +294,15 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 14317001}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &14317005
+=======
+  m_GameObject: {fileID: 538269694}
+  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &538269698
+>>>>>>> #123
 =======
   m_GameObject: {fileID: 538269694}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
@@ -285,7 +320,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 14317001}
+=======
+  m_GameObject: {fileID: 538269694}
+>>>>>>> #123
 =======
   m_GameObject: {fileID: 538269694}
 >>>>>>> #123
